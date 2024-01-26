@@ -22,7 +22,7 @@
   padding-left: 15px;
   margin-bottom: 10px;
   outline: none;
-  border: 1px solid rgba(0, 0, 0, 0.24);
+  border: 1px solid rgba(75, 204, 105, 0.24);
   font-family: "Inter";
   border-radius: 2px;
   font-size: 15px;
@@ -31,7 +31,7 @@
 .submit_btn {
   padding: 17px 30px;
   margin-top: 10px;
-  background: black;
+  background: rgb(49, 215, 12);
   border: none;
   color: white;
   font-size: 14px;
