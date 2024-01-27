@@ -10,6 +10,7 @@
   min-width: 300px;
   padding: 17px 30px;
   margin-top: 20px;
+  cursor: pointer;
   background: black;
   border: none;
   color: rgb(230, 164, 164);
